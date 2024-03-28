@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  **Contact me on discord add ._topaz**
+  Contact me on discord add ._topaz
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
