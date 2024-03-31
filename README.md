@@ -1,4 +1,5 @@
 [![Linktree](https://img.shields.io/badge/My-Linktree-blue.svg)](https://linktr.ee/topaz.dev)
+[![Language](https://img.shields.io/badge/TypeScript-blue.svg)](https://github.com/microsoft/TypeScript)
 <h1 align="center">Hi I'm Topaz!</h1>
 <h3 align="center">A Intermediate Web developer I love writing JavaScript and making discord bots.</h3>
 
