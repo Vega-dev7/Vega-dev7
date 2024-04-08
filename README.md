@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **To Make Plugins On Vencord**
 
-- 👨‍💻 All of my projects are available at [https://replit.com/@topazdev7](https://replit.com/@topazdev7)
+- 👨‍💻 All of my projects are at [https://replit.com/@topazdev7](https://replit.com/@topazdev7)
 
-- 💬 Ask me about **Html, Css**
+- 💬 Ask me about **Html, Css, Typescript, JavaScript**
 
 - 📫 How to reach me? **Add vega.gd on discord to talk to me**
 
