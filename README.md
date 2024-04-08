@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **Html, Css**
 
-- 📫 How to reach me **Add._topaz on discord to talk to me**
+- 📫 How to reach me? **Add vega.gd on discord to talk to me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  Contact me on discord add Vega.gd
+  Contact me on discord add vega.gd
 </p>
 
 <h3 align="left">Languages and Tools and APIS and libraries:</h3>
