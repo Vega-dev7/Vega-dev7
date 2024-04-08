@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Vega! or known as topaz</h1>
 <h3 align="center">A Intermediate Web developer I love writing JavaScript and making discord bots.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topaz-dev7" alt="topaz-dev7" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vega-dev7" alt="topaz-dev7" /></a> </p>
 
 - Hi I'm Topaz **I'm trying to become a web developer and a full stack developer**
 
