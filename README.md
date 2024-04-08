@@ -30,7 +30,7 @@
 [![Javascript](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript&color=FFFF00)](https://www.w3schools.com/js/default.asp)
 [![Discord-API](https://img.shields.io/badge/Discord-API-blue?style=for-the-badge&logo=Discord-API&color=0000FF)](https://github.com/discord/discord-api-docs) 
 [![Eris](https://img.shields.io/badge/Eris-blue?style=for-the-badge&logo=Eris&color=90EE90)](https://github.com/abalabahaha/eris) 
-[![NPM](https://img.shields.io/badge/NPM-blue?style=for-the-badge&logo=NPM&color&FF0000)]() 
+[![NPM](https://img.shields.io/badge/NPM-blue?style=for-the-badge&logo=NPM&color=FF0000)]() 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vega-dev7&show_icons=true&locale=en&layout=compact" alt="topaz-dev7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=topaz-dev7&show_icons=true&locale=en" alt="topaz-dev7" /></p>
