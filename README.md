@@ -28,7 +28,7 @@
 
 [![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&color=5834d5)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 
-[![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typest&color=ADD8E6)(https://www.typescriptlang.org/)
+[![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&color=ADD8E6)(https://www.typescriptlang.org/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=topaz-dev7&show_icons=true&locale=en&layout=compact" alt="topaz-dev7" /></p>
 
