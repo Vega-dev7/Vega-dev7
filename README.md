@@ -20,7 +20,7 @@
   Contact me on discord add vega.gd
 </p>
 
-<h3 align="left">Languages and Tools and APIS and libraries:</h3>
+<h3 align="left">Here are the Languages and Tools and APIS and libraries That i use:</h3>
 
 [![.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge&logo=dotnet&color=5834d5)](https://dot.net)
 [![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&color=5834d5)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
