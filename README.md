@@ -32,7 +32,7 @@
 [![Eris](https://img.shields.io/badge/Eris-blue?style=for-the-badge&logo=Eris&color=90EE90)](https://github.com/abalabahaha/eris) 
 [![NPM](https://img.shields.io/badge/NPM-blue?style=for-the-badge&logo=NPM&color=FF0000)](https://github.com/npm/cli) 
 <h3 align="left>
-   Here are My Github stats if your curious
+  Here are My Github stats if your curious
 </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vega-dev7&show_icons=true&locale=en&layout=compact" alt="Vega-dev7" /></p>
 
