@@ -37,4 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vega-dev7&show_icons=true&locale=en" alt="Vega-dev7" /></p>
 <h3 align="left"> This is me :3 </h3>
 <a href=""><img src="https://github.com/Vega-dev7/Vega-dev7/blob/main/1000019157.png" width="115"></a>
-
+[![GitHub](http://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](http://github.Vega-dev7)
