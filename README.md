@@ -1,6 +1,6 @@
 [![Linktree](https://img.shields.io/badge/My-Linktree-blue.svg)](https://linktr.ee/topaz.dev)
 [![Language](https://img.shields.io/badge/TypeScript-blue.svg)](https://github.com/microsoft/TypeScript)
-<h1 align="center">Hi I'm Topaz!</h1>
+<h1 align="center">Hi I'm Vega! or known as topaz</h1>
 <h3 align="center">A Intermediate Web developer I love writing JavaScript and making discord bots.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topaz-dev7" alt="topaz-dev7" /></a> </p>
