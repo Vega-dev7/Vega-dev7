@@ -38,4 +38,4 @@
 <h3 align="left"> This is me :3 </h3>
 <a href=""><img src="https://github.com/Vega-dev7/Vega-dev7/blob/main/1000019157.png" width="115"></a>
 
-[![GitHub](http://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](http://github.Vega-dev7)
+[![GitHub](http://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/Vega-dev7)
