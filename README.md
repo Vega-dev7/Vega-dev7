@@ -36,5 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vega-dev7&show_icons=true&locale=en" alt="Vega-dev7" /></p>
 <br>
+<h3 align="left" This is me :3 </h3>
 <a href=""><img src="https://github.com/Vega-dev7/Vega-dev7/blob/main/1000019157.png" width="115"></a>
 
