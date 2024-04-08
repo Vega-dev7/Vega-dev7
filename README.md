@@ -25,10 +25,12 @@
 [![.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge&logo=dotnet&color=5834d5)](https://dot.net)
 [![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&color=5834d5)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 [![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&color=ADD8E6)](https://www.typescriptlang.org/)
-[![Html](https://img.shields.io/badge/Html-blue?style=for-the-badge&logo=Html&color=FFA500)](https://www.w3schools.com/html/) 
-[![Css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css&color=0000FF)](https://www.w3schools.com/css/default.asp) 
-[![Javascript](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript&color=FFFF00)](https://www.w3schools.com/javascript/default.asp) 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=topaz-dev7&show_icons=true&locale=en&layout=compact" alt="topaz-dev7" /></p>
+[![HTML](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=html&color=FFA500)](https://www.w3schools.com/html/) 
+[![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&color=0000FF)](https://www.w3schools.com/css/default.asp) 
+[![Javascript](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript&color=FFFF00)](https://www.w3schools.com/js/default.asp)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vega-dev7&show_icons=true&locale=en&layout=compact" alt="topaz-dev7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=topaz-dev7&show_icons=true&locale=en" alt="topaz-dev7" /></p>
 
