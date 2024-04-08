@@ -20,7 +20,7 @@
   Contact me on discord add ._topaz
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools and APIS and libraries:</h3>
 
 [![.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge&logo=dotnet&color=5834d5)](https://dot.net)
 [![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&color=5834d5)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
@@ -28,7 +28,7 @@
 [![HTML](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=html&color=FFA500)](https://www.w3schools.com/html/) 
 [![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&color=0000FF)](https://www.w3schools.com/css/default.asp) 
 [![Javascript](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript&color=FFFF00)](https://www.w3schools.com/js/default.asp)
-
+[![Discord-API](https://img.shields.io/badge/Discord-API-blue?style=for-the-badge&logo=Discord-API&color=0000FF)]() 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vega-dev7&show_icons=true&locale=en&layout=compact" alt="topaz-dev7" /></p>
 
